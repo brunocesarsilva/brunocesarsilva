@@ -1,8 +1,8 @@
 ### Hi there 🙂 👋
 
 [![WebSite](https://img.shields.io/badge/-Bruno_Ribeiro-555?logo=linkedin&style=for-the-badge&logoColor=0077B5)](http://brunocesar.com/)
-[![GitHub](https://img.shields.io/github/followers/brunocesarsilva?label=brunocesarsilva&logo=github&style=for-the-badge)](https://github.com/brunocesarsilva)
-[![Stackoverflow](https://img.shields.io/badge/-BrunoRibeiro-555?logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/1783062)
+[![GitHub](https://img.shields.io/github/followers/brunocribeiro?label=bruno%20ribeiro&logo=github&style=for-the-badge)](https://github.com/brunocribeiro)
+[![Stackoverflow](https://img.shields.io/badge/-Bruno%20Ribeiro-555?logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/1783062)
 [![LinkedIn](https://img.shields.io/badge/-Bruno_Ribeiro-555?logo=linkedin&style=for-the-badge&logoColor=0077B5)](https://www.linkedin.com/in/brunocesarsilva)
 [![Telegram](https://img.shields.io/badge/-@BrunoRibeiro-555?logo=telegram&style=for-the-badge)](https://t.me/brunocrsilva)
 
