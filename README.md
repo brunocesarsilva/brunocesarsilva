@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Bruno_Ribeiro-555?logo=linkedin&style=for-the-badge&logoColor=0077B5)](https://www.linkedin.com/in/brunocribeiros)
 [![Telegram](https://img.shields.io/badge/-@BrunoRibeiro-555?logo=telegram&style=for-the-badge)](https://t.me/brunocribeiros)
 
-I'm Bruno, an experienced *Backend Sofware Engineer* focused on the Java Platform, especially interested in software architecture, code reuse and DRY micro-frameworks
+I'm Bruno, an experienced *Backend Sofware Engineer* mainly focused on the Java Platform, especially interested in software architecture, cloud-native applications, code reuse and DRY micro-frameworks
 
 - 🌱 I’m currently learning a bit more of [![GoLang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/) and [![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 - 👨‍💻 I usually work with a subset of (but not only):
