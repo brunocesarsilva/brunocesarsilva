@@ -3,7 +3,7 @@
 [![WebSite](https://img.shields.io/badge/-Bruno_Ribeiro-555?logo=homeassistantcommunitystore&style=for-the-badge&logoColor=0077B5)](https://brunocesar.com/)
 [![GitHub](https://img.shields.io/github/followers/brunocribeiro?label=bruno%20ribeiro&logo=github&style=for-the-badge)](https://github.com/brunocribeiro)
 [![Stackoverflow](https://img.shields.io/badge/-Bruno%20Ribeiro-555?logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/1783062)
-[![LinkedIn](https://img.shields.io/badge/-Bruno_Ribeiro-555?logo=linkedin&style=for-the-badge&logoColor=0077B5)](https://www.linkedin.com/in/brunocribeiros)
+[![LinkedIn](https://img.shields.io/badge/-Bruno_Ribeiro-555?logo=linkedin&style=for-the-badge&logoColor=0077B5)](https://www.linkedin.com/in/brunoc-ribeiro)
 [![Telegram](https://img.shields.io/badge/-@BrunoRibeiro-555?logo=telegram&style=for-the-badge)](https://t.me/brunocribeiros)
 
 I'm Bruno, an experienced *Backend Sofware Engineer* mainly focused on the Java Platform, especially interested in software architecture, cloud-native applications, code reuse and DRY micro-frameworks
@@ -11,7 +11,7 @@ I'm Bruno, an experienced *Backend Sofware Engineer* mainly focused on the Java 
 - 🌱 I’m currently learning a bit more of [![GoLang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/) and [![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 - 👨‍💻 I usually work with a subset of (but not only):
 
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -22,7 +22,7 @@ I'm Bruno, an experienced *Backend Sofware Engineer* mainly focused on the Java 
 [![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?&style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Maven](https://img.shields.io/badge/-Maven-C71A36?&style=flat-square&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-[![JUnit](https://img.shields.io/badge/-JUnit-25A162?&style=flat-square&logo=junit&logoColor=white)](https://junit.org/junit5/)
+[![JUnit](https://img.shields.io/badge/-JUnit-25A162?&style=flat-square&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![Flyway](https://img.shields.io/badge/-Flyway-CC0200?&style=flat-square&logo=flyway&logoColor=white)](https://flywaydb.org/)
 [![Liquibase](https://img.shields.io/badge/-Liquibase-2962FF?&style=flat-square&logo=liquibase&logoColor=white)](https://liquibase.org/)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?&style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
